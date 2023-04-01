@@ -62,7 +62,8 @@
                             android:id="@+id/mainimage"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:src="@color/black"
+                            android:src="@drawable/news_placeholder"
+                            android:scaleType="fitXY"
                             app:layout_constraintEnd_toEndOf="parent"
                             app:layout_constraintStart_toStartOf="parent"
                             app:layout_constraintTop_toTopOf="parent" />

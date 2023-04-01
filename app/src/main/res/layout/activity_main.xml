@@ -51,7 +51,7 @@
                     android:layout_width="100dp"
                     android:gravity="center"
                     android:layout_height="wrap_content"
-                    android:text="All"
+                    android:text="World"
                     android:textSize="16dp"
 
                     android:paddingHorizontal="20dp"
